@@ -51,8 +51,8 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid white;
-    border-left: 5px solid white;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 /* Blue Section */
@@ -81,7 +81,7 @@ div {
 
 /* Green Section */
 .green {
-    background-color: #00D800;
+    background-color: #207C00;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid white;
